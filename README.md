@@ -1,4 +1,4 @@
-# Higher or Lower — Casino Guess
+# Higher or Lower — Casino Guessing Game
 
 Simple desktop guessing game built with Python and tkinter. Designed to run on Windows.
 
@@ -26,5 +26,6 @@ Files:
 
 Create download-ready exe:
 - After building with `build_exe.bat`, run `export_exe.bat` to copy `dist/main.exe` to the project root as `Casino777.exe` which you can share or move.
+
 
 
